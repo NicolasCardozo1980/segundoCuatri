@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "Usuario 1",
+      "penalizacion": 0
+    },
+    {
+      "id": 2,
+      "nombre": "Usuario 2",
+      "penalizacion": 0
+    },
+    {
+      "id": 3,
+      "nombre": "Usuario 3",
+      "penalizacion": 0
+    }
+  ]
+  

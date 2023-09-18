@@ -1,0 +1,21 @@
+[
+    {
+      "usuarioId": 1,
+      "libroId": 1,
+      "fechaInicio": "2023-09-01T00:00:00.000Z",
+      "fechaDevolucion": "2023-09-08T00:00:00.000Z"
+    },
+    {
+      "usuarioId": 2,
+      "libroId": 2,
+      "fechaInicio": "2023-09-02T00:00:00.000Z",
+      "fechaDevolucion": "2023-09-09T00:00:00.000Z"
+    },
+    {
+      "usuarioId": 3,
+      "libroId": 3,
+      "fechaInicio": "2023-09-03T00:00:00.000Z",
+      "fechaDevolucion": "2023-09-10T00:00:00.000Z"
+    }
+  ]
+  

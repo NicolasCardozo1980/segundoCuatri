@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "titulo": "Libro 1",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "titulo": "Libro 2",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "titulo": "Libro 3",
+      "disponible": true
+    }
+  ]
+  
